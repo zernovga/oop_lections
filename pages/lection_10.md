@@ -23,7 +23,7 @@ layout: cover
 
 ::center
 
-![alt text](/image.png)
+![alt text](/img/10/image.png)
 
 ::
 
@@ -135,7 +135,7 @@ Client --l> AbstractProductB
 
 ::center
 
-![alt text](/image-1.png)
+![alt text](/img/10/image-1.png)
 
 ::
 
@@ -210,7 +210,7 @@ ConcreteBuilder ..r.> Product
 
 ::center
 
-![alt text](/image-2.png)
+![alt text](/img/10/image-2.png)
 
 ::
 
@@ -287,7 +287,7 @@ ConcreteCreator ..r> ConcreteProduct
 
 ::center
 
-![alt text](/image-3.png)
+![alt text](/img/10/image-3.png)
 
 ::
 
@@ -374,7 +374,7 @@ Client --l> Prototype
 
 ::center
 
-![alt text](/image-4.png)
+![alt text](/img/10/image-4.png)
 
 ::
 
