@@ -401,7 +401,7 @@ car_object = Car()
 <v-switch>
 <template #0>
 
-```python {monaco-run}{editorOptions: { wordWrap:'on', tabSize: 4, fontSize: 19.2, lineNumbers: 'on', autoIndent: 'full' }, height: 'auto'}
+```python
 class Phone:
     pass
 
@@ -409,9 +409,10 @@ print(dir(Phone))
 ```
 
 </template>
+
 <template #1>
 
-```python {monaco-run}{editorOptions: { wordWrap:'on', tabSize: 4, fontSize: 19.2, lineNumbers: 'on', autoIndent: 'full' }, height: 'auto'}
+```python
 class Phone:
     color = 'Grey'
     def turn_on(self):
